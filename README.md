@@ -1,0 +1,1 @@
+# Intelligens_szamitasi_modszerek
