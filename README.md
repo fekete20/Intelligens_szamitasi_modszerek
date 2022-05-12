@@ -1,6 +1,6 @@
 # Intelligens_szamitasi_modszerek
 
-Open 2 terminal and navigate them into the dev_ws directory.
+Open 2 terminal and navigate them into the root directory of this project.
 
 
 In the 1st terminal type these commands in the following order:
